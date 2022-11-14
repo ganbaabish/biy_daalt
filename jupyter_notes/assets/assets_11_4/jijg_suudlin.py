@@ -1,0 +1,1 @@
+cars = ["Тоёота", "Hynday", "Kia", "Nissan", "Mersedes Benz", "Орос автомашин"]
